@@ -2,7 +2,7 @@
 <Container>
   <Beta>True</Beta>
 <Category>VersionControl:</Category>
-  <Name>gitlab-runner</Name>
+  <Name>GitLab-Runner</Name>
   <Description>GitLab CI Multi Runner used to fetch and run pipeline jobs with GitLab CI
   </Description>
   <Registry>https://registry.hub.docker.com/r/gitlab/gitlab-runner/</Registry>
